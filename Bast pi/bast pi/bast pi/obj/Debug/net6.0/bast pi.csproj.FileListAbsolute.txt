@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\bin\Debug\net6.0\bast pi.exe
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\bin\Debug\net6.0\bast pi.deps.json
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\bin\Debug\net6.0\bast pi.runtimeconfig.json
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\bin\Debug\net6.0\bast pi.dll
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\bin\Debug\net6.0\bast pi.pdb
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.AssemblyInfo.cs
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.dll
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\refint\bast pi.dll
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.pdb
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\bast pi.genruntimeconfig.cache
+C:\Data\Cs_practice\Bast pi\bast pi\bast pi\obj\Debug\net6.0\ref\bast pi.dll
