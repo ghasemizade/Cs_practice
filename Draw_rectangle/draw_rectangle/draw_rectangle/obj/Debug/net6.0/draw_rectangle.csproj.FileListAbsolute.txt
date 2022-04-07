@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.AssemblyInfo.cs
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\bin\Debug\net6.0\draw_rectangle.exe
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\bin\Debug\net6.0\draw_rectangle.deps.json
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\bin\Debug\net6.0\draw_rectangle.runtimeconfig.json
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\bin\Debug\net6.0\draw_rectangle.dll
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\bin\Debug\net6.0\draw_rectangle.pdb
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.dll
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\refint\draw_rectangle.dll
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.pdb
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\draw_rectangle.genruntimeconfig.cache
+C:\Data\Cs_practice\Draw_rectangle\draw_rectangle\draw_rectangle\obj\Debug\net6.0\ref\draw_rectangle.dll
