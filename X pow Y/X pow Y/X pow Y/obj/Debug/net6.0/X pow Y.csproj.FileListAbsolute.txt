@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\bin\Debug\net6.0\X pow Y.exe
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\bin\Debug\net6.0\X pow Y.deps.json
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\bin\Debug\net6.0\X pow Y.runtimeconfig.json
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\bin\Debug\net6.0\X pow Y.dll
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\bin\Debug\net6.0\X pow Y.pdb
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.AssemblyInfo.cs
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.dll
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\refint\X pow Y.dll
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.pdb
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\X pow Y.genruntimeconfig.cache
+C:\Data\Cs_practice\X pow Y\X pow Y\X pow Y\obj\Debug\net6.0\ref\X pow Y.dll
