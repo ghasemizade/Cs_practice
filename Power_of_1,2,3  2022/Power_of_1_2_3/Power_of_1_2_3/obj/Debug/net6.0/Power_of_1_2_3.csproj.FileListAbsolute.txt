@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\bin\Debug\net6.0\Power_of_1_2_3.exe
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\bin\Debug\net6.0\Power_of_1_2_3.deps.json
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\bin\Debug\net6.0\Power_of_1_2_3.runtimeconfig.json
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\bin\Debug\net6.0\Power_of_1_2_3.dll
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\bin\Debug\net6.0\Power_of_1_2_3.pdb
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.AssemblyInfo.cs
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.dll
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\refint\Power_of_1_2_3.dll
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.pdb
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\Power_of_1_2_3.genruntimeconfig.cache
+C:\Data\Cs_practice\Power_of_1,2,3  2022\Power_of_1_2_3\Power_of_1_2_3\obj\Debug\net6.0\ref\Power_of_1_2_3.dll
