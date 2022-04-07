@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\avg\avg\avg\bin\Debug\net6.0\avg.exe
+C:\Data\Cs_practice\avg\avg\avg\bin\Debug\net6.0\avg.deps.json
+C:\Data\Cs_practice\avg\avg\avg\bin\Debug\net6.0\avg.runtimeconfig.json
+C:\Data\Cs_practice\avg\avg\avg\bin\Debug\net6.0\avg.dll
+C:\Data\Cs_practice\avg\avg\avg\bin\Debug\net6.0\avg.pdb
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.AssemblyInfo.cs
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.dll
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\refint\avg.dll
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.pdb
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\avg.genruntimeconfig.cache
+C:\Data\Cs_practice\avg\avg\avg\obj\Debug\net6.0\ref\avg.dll
