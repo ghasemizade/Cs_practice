@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\bin\Debug\net6.0\Product_without_product.exe
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\bin\Debug\net6.0\Product_without_product.deps.json
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\bin\Debug\net6.0\Product_without_product.runtimeconfig.json
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\bin\Debug\net6.0\Product_without_product.dll
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\bin\Debug\net6.0\Product_without_product.pdb
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.AssemblyInfo.cs
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.dll
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\refint\Product_without_product.dll
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.pdb
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\Product_without_product.genruntimeconfig.cache
+C:\Data\Cs_practice\Product_without_product\Product_without_product\Product_without_product\obj\Debug\net6.0\ref\Product_without_product.dll
