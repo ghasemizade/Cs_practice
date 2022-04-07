@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\bin\Debug\net6.0\Divine Proportion.exe
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\bin\Debug\net6.0\Divine Proportion.deps.json
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\bin\Debug\net6.0\Divine Proportion.runtimeconfig.json
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\bin\Debug\net6.0\Divine Proportion.dll
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\bin\Debug\net6.0\Divine Proportion.pdb
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.AssemblyInfo.cs
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.dll
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\refint\Divine Proportion.dll
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.pdb
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\Divine Proportion.genruntimeconfig.cache
+C:\Data\Cs_practice\Divine Proportion\Divine Proportion\Divine Proportion\obj\Debug\net6.0\ref\Divine Proportion.dll
