@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\bin\Debug\net6.0\Show_star.exe
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\bin\Debug\net6.0\Show_star.deps.json
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\bin\Debug\net6.0\Show_star.runtimeconfig.json
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\bin\Debug\net6.0\Show_star.dll
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\bin\Debug\net6.0\Show_star.pdb
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.AssemblyInfo.cs
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.dll
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\refint\Show_star.dll
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.pdb
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\Show_star.genruntimeconfig.cache
+C:\Data\Cs_practice\Show_Star\Show_star\Show_star\obj\Debug\net6.0\ref\Show_star.dll
