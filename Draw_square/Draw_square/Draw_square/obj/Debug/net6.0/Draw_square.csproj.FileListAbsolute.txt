@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\bin\Debug\net6.0\Draw_square.exe
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\bin\Debug\net6.0\Draw_square.deps.json
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\bin\Debug\net6.0\Draw_square.runtimeconfig.json
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\bin\Debug\net6.0\Draw_square.dll
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\bin\Debug\net6.0\Draw_square.pdb
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.AssemblyInfo.cs
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.dll
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\refint\Draw_square.dll
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.pdb
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\Draw_square.genruntimeconfig.cache
+C:\Data\Cs_practice\Draw_square\Draw_square\Draw_square\obj\Debug\net6.0\ref\Draw_square.dll
