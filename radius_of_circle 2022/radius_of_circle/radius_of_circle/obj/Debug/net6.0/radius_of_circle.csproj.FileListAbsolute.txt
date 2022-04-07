@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\bin\Debug\net6.0\radius_of_circle.exe
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\bin\Debug\net6.0\radius_of_circle.deps.json
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\bin\Debug\net6.0\radius_of_circle.runtimeconfig.json
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\bin\Debug\net6.0\radius_of_circle.dll
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\bin\Debug\net6.0\radius_of_circle.pdb
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.AssemblyInfo.cs
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.dll
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\refint\radius_of_circle.dll
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.pdb
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\radius_of_circle.genruntimeconfig.cache
+C:\Data\Cs_practice\radius_of_circle 2022\radius_of_circle\radius_of_circle\obj\Debug\net6.0\ref\radius_of_circle.dll
