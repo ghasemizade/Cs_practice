@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\bin\Debug\net6.0\Draw_triangel_O.exe
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\bin\Debug\net6.0\Draw_triangel_O.deps.json
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\bin\Debug\net6.0\Draw_triangel_O.runtimeconfig.json
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\bin\Debug\net6.0\Draw_triangel_O.dll
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\bin\Debug\net6.0\Draw_triangel_O.pdb
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.AssemblyInfo.cs
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.dll
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\refint\Draw_triangel_O.dll
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.pdb
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\Draw_triangel_O.genruntimeconfig.cache
+C:\Data\Cs_practice\Draw_triangle_O\Draw_triangel_O\Draw_triangel_O\obj\Debug\net6.0\ref\Draw_triangel_O.dll
