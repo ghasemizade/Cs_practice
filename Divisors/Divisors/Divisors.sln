@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisors", "Divisors\Divisors.csproj", "{17C8ED39-BD5A-4CF6-8D5D-1715B080ED16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C8ED39-BD5A-4CF6-8D5D-1715B080ED16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C8ED39-BD5A-4CF6-8D5D-1715B080ED16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C8ED39-BD5A-4CF6-8D5D-1715B080ED16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C8ED39-BD5A-4CF6-8D5D-1715B080ED16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0D8EA2-5F8D-41C6-919C-1EE1291D6C10}
+	EndGlobalSection
+EndGlobal
