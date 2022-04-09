@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\bin\Debug\net6.0\some_calculater.exe
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\bin\Debug\net6.0\some_calculater.deps.json
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\bin\Debug\net6.0\some_calculater.runtimeconfig.json
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\bin\Debug\net6.0\some_calculater.dll
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\bin\Debug\net6.0\some_calculater.pdb
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.AssemblyInfo.cs
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.dll
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\refint\some_calculater.dll
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.pdb
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\some_calculater.genruntimeconfig.cache
+C:\Data\Cs_practice\some_calculater\some_calculater\some_calculater\obj\Debug\net6.0\ref\some_calculater.dll
