@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\bin\Debug\net6.0\Three_max-Three_max.exe
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\bin\Debug\net6.0\Three_max-Three_max.deps.json
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\bin\Debug\net6.0\Three_max-Three_max.runtimeconfig.json
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\bin\Debug\net6.0\Three_max-Three_max.dll
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\bin\Debug\net6.0\Three_max-Three_max.pdb
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.AssemblyInfo.cs
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.dll
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\refint\Three_max-Three_max.dll
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.pdb
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\Three_max-Three_max.genruntimeconfig.cache
+C:\Data\Cs_practice\Three_max & Three_min\Three_max-Three_max\Three_max-Three_max\obj\Debug\net6.0\ref\Three_max-Three_max.dll
