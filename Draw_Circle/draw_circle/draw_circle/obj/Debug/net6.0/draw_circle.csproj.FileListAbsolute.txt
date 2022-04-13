@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\bin\Debug\net6.0\draw_circle.exe
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\bin\Debug\net6.0\draw_circle.deps.json
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\bin\Debug\net6.0\draw_circle.runtimeconfig.json
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\bin\Debug\net6.0\draw_circle.dll
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\bin\Debug\net6.0\draw_circle.pdb
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.AssemblyInfo.cs
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.dll
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\refint\draw_circle.dll
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.pdb
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\draw_circle.genruntimeconfig.cache
+C:\Data\Cs_practice\Draw_Circle\draw_circle\draw_circle\obj\Debug\net6.0\ref\draw_circle.dll
