@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\bin\Debug\net6.0\Sorted_Array.exe
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\bin\Debug\net6.0\Sorted_Array.deps.json
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\bin\Debug\net6.0\Sorted_Array.runtimeconfig.json
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\bin\Debug\net6.0\Sorted_Array.dll
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\bin\Debug\net6.0\Sorted_Array.pdb
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.AssemblyInfo.cs
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.dll
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\refint\Sorted_Array.dll
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.pdb
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\Sorted_Array.genruntimeconfig.cache
+C:\Data\Cs_practice\Sorted_Array\Sorted_Array\Sorted_Array\obj\Debug\net6.0\ref\Sorted_Array.dll
