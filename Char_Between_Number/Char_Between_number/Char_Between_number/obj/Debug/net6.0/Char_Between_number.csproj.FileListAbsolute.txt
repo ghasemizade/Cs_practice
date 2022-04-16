@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\bin\Debug\net6.0\Char_Between_number.exe
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\bin\Debug\net6.0\Char_Between_number.deps.json
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\bin\Debug\net6.0\Char_Between_number.runtimeconfig.json
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\bin\Debug\net6.0\Char_Between_number.dll
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\bin\Debug\net6.0\Char_Between_number.pdb
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.AssemblyInfo.cs
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.dll
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\refint\Char_Between_number.dll
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.pdb
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\Char_Between_number.genruntimeconfig.cache
+C:\Data\Cs_practice\Char_Between_Number\Char_Between_number\Char_Between_number\obj\Debug\net6.0\ref\Char_Between_number.dll
