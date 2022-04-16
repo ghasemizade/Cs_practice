@@ -1,0 +1,15 @@
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\bin\Debug\net6.0\hollow_square.exe
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\bin\Debug\net6.0\hollow_square.deps.json
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\bin\Debug\net6.0\hollow_square.runtimeconfig.json
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\bin\Debug\net6.0\hollow_square.dll
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\bin\Debug\net6.0\hollow_square.pdb
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.csproj.AssemblyReference.cache
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.AssemblyInfoInputs.cache
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.AssemblyInfo.cs
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.csproj.CoreCompileInputs.cache
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.dll
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\refint\hollow_square.dll
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.pdb
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\hollow_square.genruntimeconfig.cache
+C:\Data\Cs_practice\hollow_square\hollow_square\hollow_square\obj\Debug\net6.0\ref\hollow_square.dll
